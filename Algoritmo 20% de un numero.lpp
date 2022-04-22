@@ -1,0 +1,11 @@
+//calcular 20% de un numero 
+Real x,z
+Inicio
+	Escriba "Calculador del 20% de un numero"
+	llamar nueva_linea
+	Escriba "Ingrese el valor del cual quiere saber el 20%: "
+	lea x
+	z<-x*20
+	z<-z/100
+	Escriba "El 20% del numero es: ", z
+Fin	
